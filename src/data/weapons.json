@@ -1,0 +1,49 @@
+{
+	"Pistols": [
+		{ "id": "pistol-1", "name": "Glock-18" },
+		{ "id": "pistol-2", "name": "USP-S" },
+		{ "id": "pistol-3", "name": "P2000" },
+		{ "id": "pistol-4", "name": "Dual Berettas" },
+		{ "id": "pistol-5", "name": "P250" },
+		{ "id": "pistol-6", "name": "Five-Seven" },
+		{ "id": "pistol-7", "name": "Tec-9" },
+		{ "id": "pistol-8", "name": "CZ75-Auto" },
+		{ "id": "pistol-9", "name": "Desert Eagle" },
+		{ "id": "pistol-10", "name": "R8 Revolver" },
+		{ "id": "pistol-11", "name": "Zeus x27" }
+	],
+	"Heavy": {
+		"Shotgun": [
+			{ "id": "shotgun-1", "name": "Nova" },
+			{ "id": "shotgun-2", "name": "XM1014" },
+			{ "id": "shotgun-3", "name": "MAG-7" },
+			{ "id": "shotgun-4", "name": "Sawed-Off" }
+		],
+		"LMG": [
+			{ "id": "lmg-1", "name": "M249" },
+			{ "id": "lmg-2", "name": "Negev" }
+		],
+		"SMG": [
+			{ "id": "smg-1", "name": "MAC-10" },
+			{ "id": "smg-2", "name": "MP9" },
+			{ "id": "smg-3", "name": "MP7" },
+			{ "id": "smg-4", "name": "MP5-SD" },
+			{ "id": "smg-5", "name": "UMP-45" },
+			{ "id": "smg-6", "name": "P90" },
+			{ "id": "smg-7", "name": "PP-Bizon" }
+		]
+	},
+	"Rifles": [
+		{ "id": "rifle-1", "name": "Famas" },
+		{ "id": "rifle-2", "name": "Galil AR" },
+		{ "id": "rifle-3", "name": "M4A4" },
+		{ "id": "rifle-4", "name": "M4A1-S" },
+		{ "id": "rifle-5", "name": "AK-47" },
+		{ "id": "rifle-6", "name": "SSG 08" },
+		{ "id": "rifle-7", "name": "AUG" },
+		{ "id": "rifle-8", "name": "SG 553" },
+		{ "id": "rifle-9", "name": "AWP" },
+		{ "id": "rifle-10", "name": "SCAR-20" },
+		{ "id": "rifle-11", "name": "G3SG1" }
+	]
+}
